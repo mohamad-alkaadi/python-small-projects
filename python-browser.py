@@ -1,3 +1,5 @@
+# https://www.coursera.org/learn/django-database-web-apps/lecture/alKDL/building-a-simple-web-browser-in-python
+
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
